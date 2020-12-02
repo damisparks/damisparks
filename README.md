@@ -10,15 +10,14 @@
 
 
 ⚡️ **What I do:**
-- Developer and Data Scientist
-- Technical Mentor 
-- Code Reviewer 
-- Founder of [Bhetey](http://bhetey.com/)
+- Developer and Data Scientist [@PrimeIT](https://www.primeit.pt/)
+- Technical Mentor & Code Reviewer [@Udacity](https://www.udacity.com/)
+- Lead Software Engineer [@Bhetey](http://bhetey.com/)
 
 
 📫 **How to reach me**: 
-- [@DamiSparks](https://twitter.com/DamiSparks)
-- [Dami Sparks](https://www.linkedin.com/in/damisparks)
+- [@DamiSparks](https://twitter.com/DamiSparks) on Twitter
+- [Dami Sparks on LinkedIn](https://www.linkedin.com/in/damisparks)
 
 
 ⚡ **Fun fact**: 
