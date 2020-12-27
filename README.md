@@ -1,30 +1,34 @@
 ### Hi there 👋
+
 ### I'm a quick-witter
 
-≠ **I am not a**: 
-- Nerd 
+≠ **I am not a**:
+
+- Nerd
 - Geek
 - Coffee addict
 
-💬 **Ask me about:** Web development,  Program Management, Data Science, Serverless architecture, Community Management, VueJS, NuxtJS, Angular, Performance, AWS, Testing, Open Source.
+> I am not all I do is code without having a life.
 
+💬 **Ask me about:** Web development, Program Management, Data Science, Serverless architecture, Community Management, VueJS, NuxtJS, Angular, Performance, AWS, Testing, Open Source.
 
 ⚡️ **What I do:**
-- Developer and Data Scientist [@PrimeIT](https://www.primeit.pt/)
-- Technical Mentor & Code Reviewer [@Udacity](https://www.udacity.com/)
+
+- Software Developer & Data Scientist [@PrimeIT](https://www.primeit.pt/)
+- Mentor & Code Reviewer [@Udacity](https://www.udacity.com/)
 - Lead Software Engineer [@Bhetey](http://bhetey.com/)
 
+📫 **How to reach me**:
 
-📫 **How to reach me**: 
-- [@DamiSparks](https://twitter.com/DamiSparks) on Twitter
-- [Dami Sparks on LinkedIn](https://www.linkedin.com/in/damisparks)
+- [@DamiSparks | Twitter](https://twitter.com/DamiSparks)
+- [Dami Sparks | LinkedIn](https://www.linkedin.com/in/damisparks)
 
+⚡ **Fun fact**:
 
-⚡ **Fun fact**: 
-* I'm anti sugar person. 
-* I play 🎸, 🥁 & 🎤
-* I will beat at FIFA
-
+- I hate sugar.
+- Buy me a cup of latte , cappuccino ☕️ and I will fix your code. 😅
+- I play 🎸, 🥁 & 🎤 (4 instruments)
+- I am an awesome dancer. (_Do not want to leave your girl with me._)
 
 <!--
 **damisparks/damisparks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
