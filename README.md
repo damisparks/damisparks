@@ -1,20 +1,15 @@
-### Hi there 👋
+<h3 align="center">Hi there! 👋  I'm Dami Sparks</h3>
+<p align="center">
+  <a href="https://twitter.com/DamiSparks">Twitter</a>
+</p>
 
-### I'm a quick-witter
+> ✨ I'm a quick-witter
 
-≠ **I am not a**:
-
-- Nerd
-- Geek
-- Coffee addict
-
-> I am not all I do is code without having a life.
 
 💬 **Ask me about:** Web development, Program Management, Data Science, Serverless architecture, Community Management, VueJS, NuxtJS, Angular, Performance, AWS, Testing, Open Source.
 
 ⚡️ **What I do:**
 
-- Software Developer & Data Scientist [@PrimeIT](https://www.primeit.pt/)
 - Mentor & Code Reviewer [@Udacity](https://www.udacity.com/)
 - Lead Software Engineer [@Bhetey](http://bhetey.com/)
 
@@ -28,8 +23,6 @@
 - I hate sugar.
 - Buy me a cup of latte , cappuccino ☕️ and I will fix your code. 😅
 - I play 🎸, 🥁 & 🎤 (4 instruments)
-- I am an awesome dancer. (_Do not want to leave your girl with me._)
-
 <!--
 **damisparks/damisparks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
