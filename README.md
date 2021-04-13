@@ -20,9 +20,8 @@
 
 ⚡ **Fun fact**:
 
-- I hate sugar.
 - Buy me a cup of latte , cappuccino ☕️ and I will fix your code. 😅
-- I play 🎸, 🥁 & 🎤 (4 instruments)
+- I play 🎸 🥁 
 <!--
 **damisparks/damisparks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
