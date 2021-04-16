@@ -8,19 +8,21 @@
 
 💬 **Ask me about:** Web development, Program Management, Data Science, Serverless architecture, Community Management, VueJS, NuxtJS, Angular, Performance, AWS, Testing, Open Source.
 
+
 ⚡️ **What I do:**
 
 - Mentor & Code Reviewer [@Udacity](https://www.udacity.com/)
-- Lead Software Engineer [@Bhetey](http://bhetey.com/)
+
+- 🌱 I’m currently learning [Webrtc](https://webrtc.org/getting-started/overview)
 
 📫 **How to reach me**:
 
-- [@DamiSparks | Twitter](https://twitter.com/DamiSparks)
-- [Dami Sparks | LinkedIn](https://www.linkedin.com/in/damisparks)
+- [@DamiSparks - Twitter](https://twitter.com/DamiSparks)
+- [Dami Sparks - LinkedIn](https://www.linkedin.com/in/damisparks)
 
 ⚡ **Fun fact**:
 
-- Buy me a cup of latte , cappuccino ☕️ and I will fix your code. 😅
+- I am always down for a cup of latte or cappuccino ☕️ 😅
 - I play 🎸 🥁 
 <!--
 **damisparks/damisparks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
