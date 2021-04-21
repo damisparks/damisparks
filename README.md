@@ -1,6 +1,7 @@
 <h3 align="center">Hi there! 👋  I'm Dami Sparks</h3>
 <p align="center">
-  <a href="https://twitter.com/DamiSparks">Twitter</a>
+  <a href="//twitter.com/DamiSparks">Twitter</a>
+  <a href="//www.linkedin.com/in/damisparks">LinkedIn</a>
 </p>
 
 > ✨ I'm a quick-witter
@@ -10,15 +11,14 @@
 
 
 ⚡️ **What I do:**
-
+- 🔭 I’m currently working on [Actif](www.actif.online.com)
 - Mentor & Code Reviewer [@Udacity](https://www.udacity.com/)
-
 - 🌱 I’m currently learning [Webrtc](https://webrtc.org/getting-started/overview)
 
-📫 **How to reach me**:
+<!-- 📫 **How to reach me**:
 
 - [@DamiSparks - Twitter](https://twitter.com/DamiSparks)
-- [Dami Sparks - LinkedIn](https://www.linkedin.com/in/damisparks)
+- [Dami Sparks - LinkedIn](https://www.linkedin.com/in/damisparks) -->
 
 ⚡ **Fun fact**:
 
@@ -29,7 +29,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
