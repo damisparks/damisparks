@@ -21,7 +21,7 @@
 
 
 ⚡️ **What I do:**
-- 🔭 I’m co-founder & CTO [@Actif](www.actif.online.com)
+- 🔭 I’m a co-founder & CTO [@Actif](www.actif.online.com)
 - Mentor & Code Reviewer [@Udacity](https://www.udacity.com/)
 - 🌱 I’m currently learning [Webrtc](https://webrtc.org/getting-started/overview)
 
