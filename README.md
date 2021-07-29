@@ -7,18 +7,29 @@
 > ✨ I'm a quick-witter
 
 
-💬 **Ask me about:** Web development, Program Management, Data Science, Serverless architecture, Community Management, VueJS, NuxtJS, Angular, Performance, AWS, Testing, Open Source.
+💬 **Ask me about:** 
+* Web development
+* VueJS, 
+* NuxtJS, 
+* Google Cloud
+* Data Science
+* Startup & Entrepreneurship
+* Angular 
+* AWS, 
+* Testing, 
+* Open Source.
 
 
 ⚡️ **What I do:**
-- 🔭 I’m currently working on [Actif](www.actif.online.com)
+- 🔭 I’m co-founder & CTO [@Actif](www.actif.online.com)
 - Mentor & Code Reviewer [@Udacity](https://www.udacity.com/)
 - 🌱 I’m currently learning [Webrtc](https://webrtc.org/getting-started/overview)
 
-<!-- 📫 **How to reach me**:
+
+📫 **How to reach me**:
 
 - [@DamiSparks - Twitter](https://twitter.com/DamiSparks)
-- [Dami Sparks - LinkedIn](https://www.linkedin.com/in/damisparks) -->
+- [Dami Sparks - LinkedIn](https://www.linkedin.com/in/damisparks)
 
 ⚡ **Fun fact**:
 
