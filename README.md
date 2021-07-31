@@ -21,19 +21,19 @@
 
 
 ⚡️ **What I do:**
-- 🔭 I’m a co-founder & CTO [@Actif](www.actif.online.com)
+- 🔭 co-founder & CTO [@Actif](www.actif.online.com)
 - Mentor & Code Reviewer [@Udacity](https://www.udacity.com/)
 - 🌱 I’m currently learning [Webrtc](https://webrtc.org/getting-started/overview)
 
 
 📫 **How to reach me**:
 
-- [@DamiSparks - Twitter](https://twitter.com/DamiSparks)
+- [@DamiSparks - Twitter](https://twitter.com/DamiSparks) 
 - [Dami Sparks - LinkedIn](https://www.linkedin.com/in/damisparks)
 
 ⚡ **Fun fact**:
 
-- I am always down for a cup of latte or cappuccino ☕️ 😅
+- I like latte or cappuccino ☕️ 😅
 - I play 🎸 🥁 
 <!--
 **damisparks/damisparks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
