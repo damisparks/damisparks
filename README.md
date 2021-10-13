@@ -21,7 +21,9 @@
 
 
 ⚡️ **What I do:**
-- 🔭 I’m co-founder & CTO [@Actif](www.actif.online.com)
+- VueJs & NuxtJS Developer 
+- JavaScript Developer
+- 🔭 Co-founder & CTO [@Actif](www.actif.online.com)
 - Mentor & Code Reviewer [@Udacity](https://www.udacity.com/)
 - 🌱 I’m currently learning [Webrtc](https://webrtc.org/getting-started/overview)
 
@@ -35,6 +37,11 @@
 
 - I am always down for a cup of latte or cappuccino ☕️ 😅
 - I play 🎸 🥁 
+
+
+# My Github Stats
+
+![Damilola's github stats](https://github-readme-stats.vercel.app/api?username=damisparks&show_icons=true&theme=dark)
 <!--
 **damisparks/damisparks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
