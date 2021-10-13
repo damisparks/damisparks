@@ -30,12 +30,12 @@
 
 📫 **How to reach me**:
 
-- [@DamiSparks - Twitter](https://twitter.com/DamiSparks)
+- [@DamiSparks - Twitter](https://twitter.com/DamiSparks) 
 - [Dami Sparks - LinkedIn](https://www.linkedin.com/in/damisparks)
 
 ⚡ **Fun fact**:
 
-- I am always down for a cup of latte or cappuccino ☕️ 😅
+- I like latte or cappuccino ☕️ 😅
 - I play 🎸 🥁 
 
 
