@@ -1,6 +1,6 @@
 <h3 align="center">Hi there! 👋  I'm Dami Sparks</h3>
 <p align="center">
-  <a href="//twitter.com/DamiSparks">Twitter</a>
+  <a href="//twitter.com/DamiSparks">Twitter</a> • 
   <a href="//www.linkedin.com/in/damisparks">LinkedIn</a>
 </p>
 
@@ -25,13 +25,11 @@
 - JavaScript Developer
 - 🔭 Co-founder & CTO [@Actif](www.actif.online.com)
 - Mentor & Code Reviewer [@Udacity](https://www.udacity.com/)
-- 🌱 I’m currently learning [Webrtc](https://webrtc.org/getting-started/overview)
-
 
 📫 **How to reach me**:
 
-- [@DamiSparks - Twitter](https://twitter.com/DamiSparks) 
-- [Dami Sparks - LinkedIn](https://www.linkedin.com/in/damisparks)
+- Tweet me [@DamiSparks](https://twitter.com/DamiSparks) 
+- Drop a message [Dami Sparks](https://www.linkedin.com/in/damisparks)
 
 ⚡ **Fun fact**:
 
