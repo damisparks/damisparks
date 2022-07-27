@@ -7,7 +7,7 @@
 > ✨ I'm a quick-witter
 
 
-💬 **Ask me about:** 
+# 💬 Ask me about 
 * Web development
 * VueJS, 
 * NuxtJS, 
@@ -20,16 +20,18 @@
 * Open Source.
 
 
-⚡️ **What I do:**
+# ⚡️ What I do
 - VueJs & NuxtJS Developer 
 - JavaScript Developer
 - 🔭 Co-founder & CTO [@Actif](www.actif.online.com)
 - Mentor & Code Reviewer [@Udacity](https://www.udacity.com/)
 
-📫 **How to reach me**:
+# 👀 Follow me on
 
-- Tweet me [@DamiSparks](https://twitter.com/DamiSparks) 
-- Drop a message [Dami Sparks](https://www.linkedin.com/in/damisparks)
+- Twitter: [@DamiSparks](https://twitter.com/DamiSparks) 
+- LinkedIn: [DamiSparks](https://www.linkedin.com/in/damisparks)
+- LinkedIn: [DamiSparks](https://instagram.com/damisparks)
+- Medium: [DamiSparks](https://damisparks.medium.com/)
 
 ⚡ **Fun fact**:
 
@@ -37,9 +39,13 @@
 - I play 🎸 🥁 
 
 
-# My Github Stats
+# My Contributions
 
 ![Damilola's github stats](https://github-readme-stats.vercel.app/api?username=damisparks&show_icons=true&theme=dark)
+
+# Most used languages
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=damisparks&layout=compact&title_color=553c9a&text_color=1a202c)
+
 <!--
 **damisparks/damisparks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
