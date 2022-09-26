@@ -1,23 +1,22 @@
-<h3 align="center">Hi there! 👋  I'm Dami Sparks</h3>
+<!-- <h3 align="center">Hi there! 👋  I'm Dami Sparks</h3> -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=8C43EA&vCenter=true&width=300&height=40&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Dami+Sparks)](https://git.io/typing-svg)
+
 <p align="center">
   <a href="//twitter.com/DamiSparks">Twitter</a> • 
   <a href="//www.linkedin.com/in/damisparks">LinkedIn</a>
 </p>
-
-> ✨ I'm a quick-witter
-
+<!-- > ✨ I'm a quick-witter -->
 
 # 💬 Ask me about 
 * Web development
 * VueJS, 
 * NuxtJS, 
-* Google Cloud
+* Google Cloud, AWS & Microsoft Azure
 * Data Science
-* Startup & Entrepreneurship
-* Angular 
-* AWS, 
-* Testing, 
+* Startup
 * Open Source.
+* Testing, 
 
 
 # ⚡️ What I do
@@ -41,11 +40,10 @@
 
 # My Contributions
 
-![Damilola's github stats](https://github-readme-stats.vercel.app/api?username=damisparks&show_icons=true&theme=dark)
+![Damilola's github stats](https://github-readme-stats.vercel.app/api?username=damisparks&count_private=true&show_icons=true&theme=dark)
 
 # Most used languages
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=damisparks&layout=compact&title_color=553c9a&text_color=1a202c)
-
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=damisparks&count_private=true&layout=compact&title_color=553c9a&text_color=1a202c&hide=jupyter%20notebook,html)
 <!--
 **damisparks/damisparks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
