@@ -13,7 +13,7 @@ VueJs NuxtJS & React Developer. Co-founded <a href="https://www.actif.online">Ac
 <p align="center">
   <samp>
     <a href="https://www.damisparks.com">me</a> .
-    <a href="https://www.damisparks.com/blog">blog</a> .
+    <a href="https://www.damisparks.com/articles">articles</a> .
     <a href="//www.linkedin.com/in/damisparks">linkedIn</a> . 
     <a href="https://www.damisparks.com/projects">projects</a> .
     <a href="https://twitter.com/damisparks">tweets</a> .
