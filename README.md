@@ -1,6 +1,6 @@
 <p align="center">
 <samp>
-I am a Software Engineer.</samp>
+I am a Software | Design Engineer.</samp>
 <br>
 <samp>
 <small>
@@ -13,9 +13,9 @@ VueJs NuxtJS & React Developer. Co-founded <a href="https://www.actif.online">Ac
 <p align="center">
   <samp>
     <a href="https://www.damisparks.com">me</a> .
-    <a href="https://www.damisparks.com/articles">articles</a> .
+    <a href="https://www.damisparks.com/notes">notes</a> .
     <a href="//www.linkedin.com/in/damisparks">linkedIn</a> . 
-    <a href="https://www.damisparks.com/work">work</a> .
+    <a href="https://www.damisparks.com/projects">projects</a> .
     <a href="https://twitter.com/damisparks">tweets</a> .
     <a href="https://instagram.com/damisparks">instagram</a> .
     <a href="https://medium.com/@damisparks">medium</a>
