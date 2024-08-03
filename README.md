@@ -1,6 +1,5 @@
 <p align="center">
-<samp>
-I am a Software | Design Engineer.</samp>
+<samp>Software | Design Engineer.</samp>
 <br>
 <samp>
 <small>
