@@ -3,7 +3,7 @@
 <br>
 <samp>
 <small>
-VueJs NuxtJS & React Developer. Co-founded <a href="https://www.actif.online">Actif</a> . Code Reviewer at
+VueJs, NuxtJS & React Engineer. Co-foundeder at <a href="https://www.actif.online">Actif</a>. Code Reviewer at
 <a href="https://www.udacity.com">Udacity</a>.
 </small>
 </samp>
