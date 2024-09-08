@@ -13,10 +13,8 @@ VueJs, NuxtJS & React Engineer. Co-foundeder at <a href="https://www.actif.onlin
   <samp>
     <a href="https://www.damisparks.com">me</a> .
     <a href="https://www.damisparks.com/notes">notes</a> .
-    <a href="//www.linkedin.com/in/damisparks">linkedIn</a> . 
     <a href="https://www.damisparks.com/projects">projects</a> .
     <a href="https://twitter.com/damisparks">tweets</a> .
-    <a href="https://instagram.com/damisparks">instagram</a> .
     <a href="https://medium.com/@damisparks">medium</a>
   </samp>
 </p>
